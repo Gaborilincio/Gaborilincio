@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 **Estudiante de Inteligencia Artificial | Desarrollador de Software | Entusiasta de la Tecnología**
 
 *Actualmente me estoy especializando en Inteligencia Artificial en Duoc UC, explorando la intersección entre la IA, la ingeniería de software y la ciencia de datos.*
